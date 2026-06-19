@@ -38,7 +38,7 @@ Together, they let us design seamless digital products — balancing elegant log
 🤝  Let’s Connect
 
 If you’re into solving problems with code, data, or design — let’s chat.  
-I’m always up for collaboration, mentoring, or just sharing what we’ve learned.
+I’m always up for collaboration or just sharing what we’ve learned.
 
 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
 
