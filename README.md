@@ -1,6 +1,6 @@
-# PratikPatil
+# 👋 Hi, I'm Pratik Patil
 
-## 📍 Master’s in Computer Applications | Software Engineer & AI Enthusiast
+## 📍 Master’s in Computer Applications @ RSCOE| Software Engineer & AI Enthusiast
 
 🌐 Full-Stack | ☁️ Cloud-Native | 🤖 AI-Focused
 
